@@ -35,7 +35,7 @@ Here is an example text conversation you can have with Pomodoro Text:
 
 So you could have a conversation like this with Pomodoro Text:
 
-<img src="phoneScreenshot.png" />
+<img src="Readme_Images/phoneScreenshot.png" />
 
 Hopefully you get the idea. Features in the pipeline:
 
@@ -78,9 +78,9 @@ supressTextMessages=false
 
 Values are located here and here:
 
-<img src="twilio-app-settings.png" />
+<img src="Readme_Images/twilio-app-settings.png" />
 
-<img src="twilio-app-settings-2.png" />
+<img src="Readme_Images/twilio-app-settings-2.png" />
 
 Using a command prompt where `node` is available, run the following command to install all Pomodoro Text dependencies:
 
@@ -104,11 +104,11 @@ You'll be given a url when `lt` runs. Update the `Messaging Request URL` to be t
 
 Click the number you want to edit:
 
-<img src="twilio-app-settings-3.png" />
+<img src="Readme_Images/twilio-app-settings-3.png" />
 
 Update the Messaging Request Url
 
-<img src="twilio-app-settings-4.png" />
+<img src="Readme_Images/twilio-app-settings-4.png" />
 
 At this point, you should be able to send a text to the Twilio number, and you should receive a reply stating that your pomodoro has started.
 
